@@ -3,3 +3,5 @@
 <hr>
 
 <p>Use this site to generate unique linear-gradient codes for your website background.</p>
+
+deployed via NetLify:  https://background-gradient.netlify.app
